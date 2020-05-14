@@ -1,2 +1,2 @@
-# spamClassifier
+#spamClassifier
 An email spam classifier
