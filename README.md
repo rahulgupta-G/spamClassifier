@@ -4,7 +4,9 @@ An email spam classifier
 <br>
 ###### This is a simple project on classifying emails as spam or non-spam using Naive Bayes algorithm
 <br>
+
 There are various techniques for spam filtering of messages or emails. Here are few that are most commonly used.
+
 <br>
 
 **(a)** Signature matching
