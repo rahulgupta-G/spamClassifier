@@ -2,6 +2,7 @@ import tkinter as tk
 import pickle
 from naive_bayes import process_message, SpamClassifier
 root = tk.Tk()
+#Path to the image to be displayed in the background
 fundo = tk.PhotoImage(file="down.png")
 w = fundo.width()
 h = fundo.height()
