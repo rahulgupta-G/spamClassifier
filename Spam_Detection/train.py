@@ -15,7 +15,7 @@ print("Training Data Done!")
 print("Writing Data Started")
 
 #This is the link of the hdf5 file inside which you will be writing the model
-with open("C:/Users/RAHUL GUPTA/Desktop/Spam_Detection/model.hdf5", "wb") as f:
+with open("Path_of_the_file_to_open_model/model.hdf5", "wb") as f:
     pickle.dump(sc_tf_idf, f)
 
 print("Writing Data Done!")
