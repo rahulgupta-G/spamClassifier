@@ -16,8 +16,7 @@ from tkinter import messagebox
 import io
 import pickle
 
-#This is the link of the csv file from where you will be loading the dataset for model creation
-mails = pd.read_csv("C:/Users/RAHUL GUPTA/Desktop/spam_ham_dataset.csv", encoding = 'latin-1')
+mails = pd.read_csv("Path_of_the_dataset", encoding = 'latin-1')
 
 mails.rename(columns = {'label' : 'labels', 'text' : 'message'}, inplace = True)
 mails['label'] = mails['labels'].map({'ham' : 0, 'spam' : 1})
