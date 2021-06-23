@@ -38,5 +38,4 @@ Here we are using Bayesian Filtering Method
 **4.** After creating the model run Input_dialog_box.py file
 
 <br>
-hhfgffgfgfgfg
-###### A .hdf5 file has already been attached which was trained on a dataset available over Kaggle (https://www.kaggle.com/datasets)
+A .hdf5 file has already been attached which was trained on a dataset available over Kaggle (https://www.kaggle.com/datasets)
